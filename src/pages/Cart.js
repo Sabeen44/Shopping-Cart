@@ -6,4 +6,4 @@ function Cart() {
   );
 }
 
-export default Home;
+export default Cart;

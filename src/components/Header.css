@@ -7,15 +7,18 @@ header {
     border-bottom: 1px solid #EEEEEE;
     font-size: 18px;
     padding: 0px 10px;
+     justify-content: space-between;
   }
   
   .logo{
     display: flex;
     align-items: center;
-    max-width: 40px;
-    margin-right: 20px;
+  
   }
-
+  .logo img{
+    max-width: 40px;
+    margin-right: 5px;
+  }
   
   .navigation .link{
     padding: 10px;
@@ -37,5 +40,6 @@ header {
     }
   }
 
-  
+ 
 
+  
