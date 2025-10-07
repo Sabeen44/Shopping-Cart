@@ -1,7 +1,7 @@
 import "./ProductCard.css";
 
-export const ProductCard = ({product}) => {
-  const {name, price, image} = product;
+ const ProductCard = ({product}) => {
+  const {id,name, price, image} = product;
 
   return (
     <div className="productCard">
@@ -15,3 +15,4 @@ export const ProductCard = ({product}) => {
   )
 }
 
+export default ProductCard;

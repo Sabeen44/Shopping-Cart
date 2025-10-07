@@ -1,3 +1,3 @@
-import Home from '../components/home.js';
-import Cart from '../components/cart.js';
+export { Home } from "./Home";
+export { Cart } from "./Cart";
 
