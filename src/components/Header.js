@@ -11,7 +11,7 @@ import "./Header.css";
       </Link>
       <nav className="navigation">
         <NavLink to="/" className="link" end>Home</NavLink>
-        <NavLink to="/cart" className="link" end>Cart</NavLink>
+        <NavLink to="/cart" className="link">Cart</NavLink>
       </nav>
       <Link to="/cart" className="items">
         <span>Cart: 2</span>
