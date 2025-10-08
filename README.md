@@ -1,6 +1,6 @@
 🛒 React Shopping Cart App
 
-A fully functional shopping cart application built with React. This project demonstrates best practices in component structuring, routing, custom hooks, and deployment.
+Example of a shopping cart application built with React. This project demonstrates best practices in component structuring, routing, custom hooks, and deployment.
 
 🚀 Features
 
